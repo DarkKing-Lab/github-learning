@@ -9,3 +9,4 @@ This project is for learning Git and GitHub.
 "Learning merge conflicts from Branch A." 
 >>>>>>> feature/conflict-a
 "Learning Git reset" 
+"This is another WRONG change" 
